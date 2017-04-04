@@ -1,5 +1,5 @@
 import React from 'react';
 
-const App = () => <h1>Hi</h1>
+const App = () => <h1>Hi bruce</h1>
 
-export default App 
+module.exports = App 
